@@ -21,12 +21,9 @@ id_produktu, data_zamowienia, id_klienta, ilosc -> suma_brutto
 Zad. 2
 Klucze kandydujące:
 a) id_zamówienia (klucz glowny)
-b) id_produktu, id_klienta
-c) id_produktu, id_klienta+data_zamówienia
-d) id_produktu, id_klienta+data_zamówienia, ilość
-e) id_klienta
-f) nazwa_produktu
-g) nazwa_klienta
+b) id_produktu, id_klienta+data_zamówienia
+c) id_produktu, id_klienta+data_zamówienia, ilość
+
 
 
 
