@@ -21,8 +21,8 @@ id_produktu, data_zamowienia, id_klienta, ilosc -> suma_brutto
 Zad. 2
 Klucze kandydujące:
 a) id_zamówienia (klucz glowny)
-b) id_produktu, id_klienta+data_zamówienia
-c) id_produktu, id_klienta+data_zamówienia, ilość
+b) id_produktu, id_klienta, data_zamówienia
+c) id_produktu, id_klienta, data_zamówienia, ilość
 
 
 
@@ -39,4 +39,4 @@ ulica, miasto -> kod pocztowy
 
 Klucze kandydujące:
 id_pomieszczenia
-id_budynku + numer_pomieszczenia
+id_budynku, numer_pomieszczenia
